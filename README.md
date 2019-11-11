@@ -1,4 +1,4 @@
 # phacks
 Materials for Pharmahacks 2019.
 
-No dataset provided here due to challenge specifications. Such secret, much woww! 
+No dataset provided here due to challenge specifications. Such secret, much woww! Beware of spaghetti code! 
